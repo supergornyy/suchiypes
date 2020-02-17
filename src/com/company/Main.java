@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("my first rape");
-        System.out.println("New day, new pain");
+        System.out.println("New day, new pain //Counter-terrorist win!");
     }
 }
