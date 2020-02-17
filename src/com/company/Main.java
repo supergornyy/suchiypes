@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        //Counter-terrorist win!
+        System.out.println("my first rape");
+        System.out.println("New day, new pain //Counter-terrorist win!");
     }
 }
